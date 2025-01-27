@@ -1,9 +1,0 @@
-Name: Dulguun Enkhbold (denkhbo1)
-Module Info: Module 1 Assigment: Hello World! Due on 01/26/2025 at 11:59pm EST
-Approach:
-hello.py - I named a variable "name" and used my first name as input "Duke". after that on the second line I used print function and used "hello" with "+name+"!"
-
-due_date.py - I lined down values such as month, day, year, hours, minutes, and seconds and inserted information based on due date of assignment. and  then i used print function to run the program. used "+" between all values to operate.
-
-Known Bugs:
-No bugs shown.
